@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    padding: 385px 78px 67px 238px;
+}
+
+#mainDiv{
+    background-color: #1B0E0F;
+    padding: 96px;
+}
+
+#container{
+    background-color: #fff;
+    padding: 96px 66px;
+}
+
+#blog{
+    color: #002AFE;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#blogH{
+    color: #181D27;
+    font-size: 46px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 12px;
+}
+
+#blogP{
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 24px;
+}
+
+/* cards */
+
+
+/* first */
+
+#firstCard{
+    margin: 56px 0;
+}
+
+#oneImg{
+    max-width: 600px;
+    width: 100%;
+    height: 462px;
+    vertical-align: middle;
+}
+
+#rightSidecont{
+    margin-left: 96px;
+    max-width: 580px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#design{
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#howDiv{
+    margin: 8px 0;
+}
+
+#howH{
+    max-width: 540px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#arrow{
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+#contentP{
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#accaunt{
+    margin-top: 24px;
+}
+
+#avatarImg{
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+#accauntTxt{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#nataliH{
+    color: #181D27;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#nataliP{
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* second */
+
+
+#secondCard{
+    margin: 56px 0;
+}
+
+#twoImg{
+    max-width: 600px;
+    width: 100%;
+    height: 462px;
+    vertical-align: middle;
+}
+
+#tworightSidecont{
+    margin-left: 96px;
+    max-width: 580px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#product{
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#twohowDiv{
+    margin: 8px 0;
+}
+
+#twohowH{
+    max-width: 540px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#twoarrow{
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+#twocontentP{
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#twoaccaunt{
+    margin-top: 24px;
+}
+
+#twoavatarImg{
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+#twoaccauntTxt{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#twonataliH{
+    color: #181D27;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#twonataliP{
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* third */
+
+
+#thirdCard{
+    margin: 56px 0;
+}
+
+#threeImg{
+    max-width: 600px;
+    width: 100%;
+    height: 462px;
+    vertical-align: middle;
+}
+
+#threerightSidecont{
+    margin-left: 96px;
+    max-width: 580px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#succes{
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#threehowDiv{
+    margin: 8px 0;
+}
+
+#threehowH{
+    max-width: 540px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#threearrow{
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+#threecontentP{
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#threeaccaunt{
+    margin-top: 24px;
+}
+
+#threeavatarImg{
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+#threeaccauntTxt{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#threenataliH{
+    color: #181D27;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#threenataliP{
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
